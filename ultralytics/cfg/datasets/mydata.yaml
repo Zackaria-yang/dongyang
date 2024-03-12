@@ -1,0 +1,6 @@
+train: /home/mango/ultralytics/data//images/train
+val: /home/mango/ultralytics/data/images/val
+# number of classes
+nc: 16
+# class names
+names: ['tissue', 'roll paper', 'soap', 'sanitizer', 'congee', 'chewing', 'instant noodles', 'chips', 'canned drinks', 'bottled drinks', 'milk', 'water', 'apple', 'pear', 'banana', 'kiwi fruit']
