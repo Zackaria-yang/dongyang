@@ -61,7 +61,9 @@ Apache License 2.0
 
 
 # Python for yolo
-‵‵‵bash
+
+```bash
 cd ./3d
 python Ui_index_1_RGB.py
+
 ```
